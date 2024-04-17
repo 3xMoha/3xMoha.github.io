@@ -94,7 +94,7 @@ theme_mode: dark # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /home/moha/Pictures/me1.png
+avatar: https://github.com/3xMoha/3xMoha.github.io/blob/master/_images/me1.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
