@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-![Desktop View](https://github.com/3xMoha/3xMoha.github.io/blob/master/_images/me2.png?raw=true){: width="972" height="589" }
+![Desktop View](https://github.com/3xMoha/3xMoha.github.io/blob/master/_images/me2.jpg?raw=true){: width="972" height="589" }
 _Full screen width and center alignment_
 
 
