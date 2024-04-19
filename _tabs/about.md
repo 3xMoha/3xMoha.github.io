@@ -1,79 +1,333 @@
 ---
 # the default layout is 'page'
-layout: cv
-title: My info
 icon: fas fa-info-circle
 order: 4
 ---
 
-![Desktop View](https://github.com/3xMoha/3xMoha.github.io/blob/master/_images/me2.jpg?raw=true){: width="972" height="589" }
-_Why not showing a good selfie with the sunset_
+<style>
+/* CSS styles from kjhealy-screen.css */
+/*body {
+    font: normal normal 400;
+    font-size: 80%;
+    line-height: 1.5em;
+    font-family: Verdana, sans-serif;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+*/
+/* p {
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;
+} */
+
+/* em {
+    position: relative;
+    left: -45%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;
+} */
+
+code {
+    font: normal normal;
+    font-size: 60%;
+    font-family: Menlo, monospace, sans-serif;
+    color: #aaa;
+}
+
+p code {
+    position: absolute;
+    left: 60%;
+    top: -4em;
+
+}
+
+/* ul {
+    position: relative;
+    left: 10%;
+    width: 65%;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;
+} */
+
+/* li {
+    padding-left: 1.25em;
+    text-indent: -1.25em;
+}
+
+li ul {
+    position: relative;
+    left: 0;
+    width: 100%;
+    margin-top: 0.25em;
+} */
+
+/* h4, h5, h6, h7 {
+    font-weight: 400;
+    font-family: Cousine, Verdana, sans-serif;
+    width: 65%;
+}
+
+h4 {
+    text-align: left;
+    font-size: 3em;
+    line-height: 1em;
+    position: relative;
+    left: 25%;
+}
+
+h5 {
+    font-size: 1.1em;
+    color: #a00;
+    margin-top: 3em;
+    position: relative;
+    top: 1.4em;
+    text-align: left;
+    /* width: 20%; */
+    /* left: -10%;
+}
+
+h6 {
+    font-size: 1em;
+    line-height: 2em;
+    position: relative;
+    top: 1.7em;
+    text-align: right;
+    width: 20%;
+} */ 
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    color: #39f;
+}
+
+#webaddress {
+    margin-top: 1em;
+    position: relative;
+    left: 33%;
+    color: #aaa;
+    font-family: Menlo, monospace, sans-serif;
+    font-size: 80%;
+}
+</style>
 
 # Andres Mohali
-Statistician and IS M.S. In the journey of developing AI and ML to build the future! 
+
+![Your Photo](https://github.com/3xMoha/3xMoha.github.io/blob/master/_images/me2.jpg?raw=true)
+
+_Why not show a good selfie with the sunset_
+{: style="position: relative;left: 30%;"}
+
+## About Me
+{: style="color: #5FA8D3;"}
+
+Statistician and M.S. in Information Science specializing in AI and ML development for the future!
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
 
 ## Currently
-Completing my Master's thesis and working part-time as a Data scientist for Hacarus.
-### Specialized in
-Statistics, Machine Learning, Deep Learning, Python for Data Science
-### Research interests
-I am interested in all applicaions of ML to the real world as well as the mathematics behind the main Ai models. Las years I have worked in medical applications
+{: style="color: #5FA8D3;"}
 
-## Work experience
+Completing my Master's thesis and working part-time as a Data Scientist for Hacarus.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
-`Nov 2023 - Present `
-__Hacarus, Kyoto,Japan.__
+## Specialized in
+{: style="color: #5FA8D3;"}
+
+Statistics, Machine Learning, Deep Learning, Python for Data Science.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
+## Research Interests
+{: style="color: #5FA8D3;"}
+
+Passionate about applying ML to real-world problems and exploring the mathematical foundations of AI models. Experienced in medical applications.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
+## Work Experience
+{: style="font-size: 3em; position: relative; text-align: left; width: 65%; left: 25%;font-family: Cousine, Verdana, sans-serif;line-height: 1em;font-weight: 400;"}
+
+
+
+
+### Hacarus, Kyoto, Japan
+{: style="color: #5FA8D3;"}
+
 *Data Scientist (Part-time)*
+{: style="position: relative;left: 0%;"}
+`Nov 2023 - Present`
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
+### Verebra Solutions, Colombia
+{: style="color: #5FA8D3;"}
 
-`Oct 2021 - Mar 2022`
-__Verebra Solutions, Colombia.__
 *Data Scientist (Full-time)*
-As Data Scientist at Vertebra I use tools like Python and Data Studio for getting valuable information from data. Also, I work in OCR automatization for automatic invoice information extraction and processing. 
+{: style="position: relative;left: 0%;"}
+`Oct 2021 - Mar 2022`
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
-- Python used for OCR construction, data management and analytics.
-- DataStudio for BI dashboards 
-- Value extraction from data with python
 
+At Verebra Solutions, utilized Python and Data Studio to extract valuable insights from data. Led OCR automation projects for invoice information extraction and processing.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
+- Developed OCR solutions in Python for automating data extraction.
+- Created BI dashboards using DataStudio.
+- Extracted actionable insights from data using Python.
+{: style="
+    position: relative;
+    left: 30%;
+    width: 65%;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;"}
+
+### Qu4nt, Merida, Venezuela
+{: style="color: #5FA8D3;"}
+
+*Machine Learning Researcher (Part-time)*
+{: style="position: relative;left: 0%;"}
 `Jan 2018 - Sep 2018`
-__Qu4nt, Merida, Venezuela.__
-*Machine Learning researcher (Part-time)*
-Attendance automation through a prototyped chat-bot assistance for a private health care institution (Venemergencias) usign NN in python.
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
-`Jan 2014 - Jan 2015`
-__Los Andes University, Merida, Venezuela.__
+
+Developed a chat-bot assisted attendance automation system using NN in Python for Venemergencias, a private healthcare institution.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
+
+### Los Andes University, Merida, Venezuela
+{: style="color: #5FA8D3;"}
+
 *Teacher Assistant (Part-time)*
-Database conceptualization and creation for the statistics department using Access
+{: style="position: relative;left: 0%;"}
+`Jan 2014 - Jan 2015`
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
+
+Assisted in conceptualizing and creating databases for the statistics department using Access.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
 
 ## Education
+{: style="font-size: 3em; position: relative; text-align: left; width: 65%; left: 25%;font-family: Cousine, Verdana, sans-serif;line-height: 1em;font-weight: 400;"}
 
-`Apr 2013 - Apr 2025`
-__Nara Institue of Science and Technology, Nara, Japan.__
+
+
+
+
+### Nara Institute of Science and Technology,<br> Nara, Japan
+{: style="color: #5FA8D3;"}
+
 *Master's in Information Science*
+{: style="position: relative;left: 0%;"}
+`Apr 2013 - Apr 2025`
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
+
+### Nara Institute of Science and Technology,<br> Nara, Japan
+{: style="color: #5FA8D3;"}
+
+*Research Student, Mathematical Informatics Lab*
+{: style="position: relative;left: 0%;"}
 `Sep 2022 - Apr 2023`
-__Nara Institue of Science and Technology, Nara, Japan.__
-*Research Student, Mathematical informatics Lab.*
-As a research student, I pursue investigation around ML applications in real-world projects in collaboration with other faculties and universities in Japan.
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
+
+Conducted research on ML applications in real-world projects in collaboration with faculties and universities in Japan.
+{: style="position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
+
+
+### Los Andes University, Merida, Venezuela
+{: style="color: #5FA8D3;"}
+
+*Licentiate in Statistics (Equivalent to B.S.)*
+{: style="position: relative;left: 0%;"}
 `Sep 2013 - Aug 2019`
-__Los Andes University, Merida, Venezuela.__
-*Licenciate in statistics (5 years degree equivalent to B.S.)*
+{: style="
+    position: relative;
+    left: 20%;
+    margin-bottom: 0.7em;
+    margin-right: 0;
+    width: 65%;"}
 
-- **GPA**: 16,659/20 (Cum Laude Honor)
-- **Bachelor’s Thesis Title**: Economic	variable efficiency to cryptocurrency forecasting.
-- **Bachelor’s Thesis Grade**: 20/20 (Publication recommendation)
+
+- **GPA**: 16.659/20 (Cum Laude Honor)
+- **Bachelor’s Thesis Title**: Economic variable efficiency for cryptocurrency forecasting.
+- **Bachelor’s Thesis Grade**: 20/20 (Recommended for Publication)
 - **Bachelor’s Thesis Paper**: [Paper Link](http://erevistas.saber.ula.ve/index.php/visiongerencial/article/view/17581-21921935476-2-PB.pdf)
 - **Responsibilities**:
-  - Gathering and cleaning reliable data for the study.
-  - Designing and carrying out experiments for comparing the efficiency of models using economical variables in cryptocurrency forecasting.
-  - Training the selected models and statistically contrasting the results using Python, LSTM neural networks, and ARIMA models.
-  - Learned Python and all the required Python modules to carry out data visualization, data analysis, and model fitting for the proposed work
-
-
-
-
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+  - Gathered and cleaned reliable data for the study.
+  - Designed and conducted experiments to compare model efficiency using Python, LSTM neural networks, and ARIMA models.
+  - Trained selected models and statistically analyzed results.
+  - Learned Python and required modules for data visualization, analysis, and model fitting.
+{: style="
+    position: relative;
+    left: 20%;
+    width: 65%;
+    margin-bottom: 1.5em;
+    margin-top: -0.5em;"}
